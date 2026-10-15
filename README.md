@@ -17,4 +17,4 @@ An advanced, enterprise-grade asynchronous web scraping and data analytics pipel
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/karamsjelnjjar-cloud/texas-multi-city-trucking-scraper.git](https://github.com/karamsjelnjjar-cloud/texas-multi-city-trucking-scraper.git)
+   git clone https://github.com/karamsjelnjjar-cloud/texas-multi-city-trucking-scraper.git
